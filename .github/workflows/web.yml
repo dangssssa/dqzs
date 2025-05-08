@@ -1,0 +1,15 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trang web đầu tiên của tôi</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+    h1 { color: blue; }
+  </style>
+</head>
+<body>
+  <h1>Xin chào thế giới!</h1>
+  <p>Trang web này được tạo hoàn toàn miễn phí!</p>
+</body>
+</html>
